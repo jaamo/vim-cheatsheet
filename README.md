@@ -1,4 +1,11 @@
-# vim-cheatsheet
-My personal VIM cheatsheet.
+# VIM cheatsheet
 
-<kbd>shift</kbd> + <kbd>command</kbd> + <kbd>3</kbd>
+I'm sure the world needs one more.
+
+## Selecting
+
+<kbd>v</kbd> Start selection
+<kbd>ctrl</kbd> + <kbd>v</kbd> Multi-cursor select
+<kbd>shift</kbd> + <kbd>v</kbd> Multiline select
+<kbd>g</kbd>, <kbd>v</kbd> Select previous
+

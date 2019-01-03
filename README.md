@@ -14,3 +14,9 @@ I'm sure the world needs one more.
 <kbd>ctrl</kbd>, <kbd>w</kbd> + <kbd><</kbd> Shrink window left  
   <kbd>ctrl</kbd>, <kbd>w</kbd> + <kbd>+</kbd> Grow window up  
 <kbd>ctrl</kbd>, <kbd>w</kbd> + <kbd>-</kbd> Shrink window down  
+
+## Search & replace
+
+`/` Search  
+<kbd>n</kbd> Search next  
+`:%s/foo/bar/g` Find each occurrence of 'foo' (in all lines), and replace it with 'bar'  

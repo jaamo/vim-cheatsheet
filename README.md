@@ -2,6 +2,24 @@
 
 I'm sure the world needs one more.
 
+## Basics
+`:w` Save
+`:q` Close current buffer
+`:q!` Close current buffer and ignore changes
+`:wq` Save current buffer and exit
+`:qa` Close all buffers
+
+## Cursor movement
+<kbd>option</kbd>, <kbd>4</kbd> Move to end of line  
+<kbd>0</kbd> Move to beginngin of of line  
+<kbd>option</kbd>, <kbd>_</kbd> Move to the beginning of text  
+
+## Scrolling
+<kbd>ctrl</kbd>, <kbd>d</kbd> Half page down
+<kbd>ctrl</kbd>, <kbd>d</kbd> Half page up
+<kbd>ctrl</kbd>, <kbd>y</kbd> One line up
+<kbd>ctrl</kbd>, <kbd>e</kbd> One line down
+
 ## Selecting
 
 <kbd>v</kbd> Start selection  

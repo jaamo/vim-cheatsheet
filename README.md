@@ -48,7 +48,7 @@ I'm sure the world needs one more.
 
 ## Macros
 
-<kbd>q</kbd>, <kbd>a</kbd> Start recording
-<kbd>q</kbd> Stop recording
+<kbd>q</kbd>, <kbd>a</kbd> Start recording  
+<kbd>q</kbd> Stop recording  
 <kbd>@</kbd>, <kbd>a</kbd> Repeat recorded
 

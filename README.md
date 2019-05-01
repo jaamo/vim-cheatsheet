@@ -3,11 +3,11 @@
 I'm sure the world needs one more.
 
 ## Basics
-`:w` Save
-`:q` Close current buffer
-`:q!` Close current buffer and ignore changes
-`:wq` Save current buffer and exit
-`:qa` Close all buffers
+`:w` Save  
+`:q` Close current buffer  
+`:q!` Close current buffer and ignore changes  
+`:wq` Save current buffer and exit  
+`:qa` Close all buffers  
 
 ## Cursor movement
 <kbd>option</kbd>, <kbd>4</kbd> Move to end of line  

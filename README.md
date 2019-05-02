@@ -39,6 +39,11 @@ I'm sure the world needs one more.
   <kbd>ctrl</kbd>, <kbd>w</kbd> + <kbd>+</kbd> Grow window up  
 <kbd>ctrl</kbd>, <kbd>w</kbd> + <kbd>-</kbd> Shrink window down  
 
+## NERDTree
+
+<kbd>shift</kbd></kbd> D <kbd>></kbd> Remove bookmark  
+`:Bookmark` Bookmark  
+
 ## Search & replace
 
 `/` Search  

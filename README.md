@@ -41,7 +41,7 @@ I'm sure the world needs one more.
 
 ## NERDTree
 
-<kbd>shift</kbd></kbd> D <kbd>></kbd> Remove bookmark  
+<kbd>shift</kbd></kbd> + <kbd>D</kbd> Remove bookmark  
 `:Bookmark` Bookmark  
 
 ## Search & replace

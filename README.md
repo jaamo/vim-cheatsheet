@@ -50,6 +50,7 @@ I'm sure the world needs one more.
 <kbd>n</kbd> Search next  
 `:%s/foo/bar/g` Find each occurrence of 'foo' (in all lines), and replace it with 'bar'  
 `:%s/foo//gn` Count occurences of 'foo'  
+<kbd>*</kbd> Search word under cursor  
 
 ## Macros
 
